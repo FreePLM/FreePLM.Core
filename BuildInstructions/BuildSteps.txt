@@ -1,0 +1,1 @@
+dotnet nuget push C:\GitHubFreePLM\FreePLM.Core\bin\Release\FreePLM.Core.10.0.0.nupkg --source FreePLM

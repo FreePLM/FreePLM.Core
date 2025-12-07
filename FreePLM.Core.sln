@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11222.15 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreePLM.Core", "FreePLM.Core.csproj", "{5FB4F348-99A3-FACE-384A-7D083F1287DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FB4F348-99A3-FACE-384A-7D083F1287DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB4F348-99A3-FACE-384A-7D083F1287DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB4F348-99A3-FACE-384A-7D083F1287DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB4F348-99A3-FACE-384A-7D083F1287DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {953FAAB2-69D3-4274-BD0D-A40ED583EA39}
+	EndGlobalSection
+EndGlobal
