@@ -1,0 +1,2 @@
+# FreePLM.Core
+FreePLM.Core
